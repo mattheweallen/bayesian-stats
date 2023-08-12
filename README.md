@@ -31,3 +31,4 @@ ssh multiple keys git config
 https://stackoverflow.com/questions/6688655/select-private-key-to-use-with-git
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
